@@ -1,3 +1,28 @@
+# Admin Dashboard to for Vector Conf API #
+
+## Goal ##
+UI for Conf API (https://github.com/dan-win/vector-conf-api)
+
+
+Note. This project does not mean any official relations with Timber.io. 
+
+## Requirements ##
+* React-Admin ()
+
+## Status ##
+Draft (!)
+
+## License ##
+MIT
+
+## Notice of Non-Affiliation and Disclaimer ##
+
+This resource is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Timber.io, or any of its subsidiaries or its affiliates. 
+
+The names Timber.io and Timber.io Vector as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+
+# How to start #
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
