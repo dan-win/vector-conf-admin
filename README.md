@@ -4,8 +4,6 @@
 UI for Conf API (https://github.com/dan-win/vector-conf-api)
 
 
-Note. This project does not mean any official relations with Timber.io. 
-
 ## Requirements ##
 * React-Admin ()
 
